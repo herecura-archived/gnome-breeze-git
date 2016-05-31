@@ -1,7 +1,7 @@
 # Maintainer: TheNumb <me (at) thenumb (dot) eu>
 
 pkgname=gnome-breeze-git
-pkgver=20160526.b5da2ab
+pkgver=20160530.49a5cd6
 pkgrel=1
 pkgdesc="A GTK theme created to match with the new Plasma 5 Breeze."
 arch=('any')
